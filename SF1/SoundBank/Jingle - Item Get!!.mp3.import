@@ -11,5 +11,5 @@ dest_files=[ "res://.import/Jingle - Item Get!!.mp3-3b2f32297f8e2a8e4070ad62569f
 
 [params]
 
-loop=true
+loop=false
 loop_offset=0

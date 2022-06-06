@@ -11,5 +11,5 @@ dest_files=[ "res://.import/Jingle - Comrades 1 (Happily).mp3-b581b0308a2489cec6
 
 [params]
 
-loop=true
+loop=false
 loop_offset=0
